@@ -11,13 +11,13 @@
         Merge the tile to get the Fibonacci number 4181.
     </description>
 
-    <author href="http://sainiuc.com/4181" email="fibonacci4181@gmail.com">
+    <author href="http://sainiuc.com" email="sainiuc@gmail.com">
         Stefan Sainiuc
     </author>
 
     <preference name="permissions" value="none"/>
 
-    <preference name="phonegap-version"           value="3.5.0" />          <!-- all: current version of PhoneGap -->
+    <preference name="phonegap-version"           value="3.7.0" />          <!-- all: current version of PhoneGap -->
     <preference name="orientation"                value="default" />        <!-- all: default means both landscape and portrait are enabled -->
     <preference name="target-device"              value="universal" />      <!-- all: possible values handset, tablet, or universal -->
     <preference name="fullscreen"                 value="true" />           <!-- all: hides the status bar at the top of the screen -->
